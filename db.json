@@ -1,0 +1,164 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "accountId": "acc-001",
+      "date": "2025-07-01",
+      "amount": 250.0,
+      "senderReceiver": "Alice Johnson",
+      "message": "Payment for services rendered"
+    },
+    {
+      "id": "2",
+      "accountId": "acc-002",
+      "date": "2025-07-02",
+      "amount": -125.5,
+      "senderReceiver": "Bob Smith",
+      "message": "Refund for invoice #231"
+    },
+    {
+      "id": "3",
+      "accountId": "acc-001",
+      "date": "2025-07-03",
+      "amount": 400,
+      "senderReceiver": "Charlie & Co",
+      "message": "Monthly subscription"
+    },
+    {
+      "id": "4",
+      "accountId": "acc-003",
+      "date": "2025-07-10",
+      "amount": -99.99,
+      "senderReceiver": "Diane’s Studio",
+      "message": "Consulting fee"
+    },
+    {
+      "id": "5",
+      "accountId": "acc-002",
+      "date": "2025-07-14",
+      "amount": 130,
+      "senderReceiver": "E-Commerce LLC",
+      "message": "Affiliate payout"
+    },
+    {
+      "id": "6",
+      "accountId": "acc-004",
+      "date": "2025-07-15",
+      "amount": 75.0,
+      "senderReceiver": "Fast Delivery",
+      "message": "Shipping reimbursement"
+    },
+    {
+      "id": "7",
+      "accountId": "acc-001",
+      "date": "2025-07-16",
+      "amount": -50.0,
+      "senderReceiver": "Office Supplies Co",
+      "message": "Stationery purchase"
+    },
+    {
+      "id": "8",
+      "accountId": "acc-003",
+      "date": "2025-07-17",
+      "amount": 900,
+      "senderReceiver": "Global Tech",
+      "message": "Software licensing"
+    },
+    {
+      "id": "9",
+      "accountId": "acc-002",
+      "date": "2025-07-18",
+      "amount": -200,
+      "senderReceiver": "Hotel Plaza",
+      "message": "Accommodation refund"
+    },
+    {
+      "id": "10",
+      "accountId": "acc-001",
+      "date": "2025-07-19",
+      "amount": 150,
+      "senderReceiver": "Jane Doe",
+      "message": "Freelance design work"
+    },
+    {
+      "id": "11",
+      "accountId": "acc-005",
+      "date": "2025-07-20",
+      "amount": 350,
+      "senderReceiver": "Marketing Agency",
+      "message": "Campaign fee"
+    },
+    {
+      "id": "12",
+      "accountId": "acc-004",
+      "date": "2025-07-21",
+      "amount": -300,
+      "senderReceiver": "Event Organizers",
+      "message": "Event cancellation fee"
+    },
+    {
+      "id": "13",
+      "accountId": "acc-001",
+      "date": "2025-07-22",
+      "amount": 220,
+      "senderReceiver": "Fitness Club",
+      "message": "Membership payment"
+    },
+    {
+      "id": "14",
+      "accountId": "acc-002",
+      "date": "2025-07-23",
+      "amount": -75,
+      "senderReceiver": "Utility Services",
+      "message": "Electricity bill"
+    },
+    {
+      "id": "15",
+      "accountId": "acc-003",
+      "date": "2025-07-24",
+      "amount": 180,
+      "senderReceiver": "Consulting Partners",
+      "message": "Project fee"
+    },
+    {
+      "id": "16",
+      "accountId": "acc-005",
+      "date": "2025-07-25",
+      "amount": -45.5,
+      "senderReceiver": "Catering Inc.",
+      "message": "Lunch meeting"
+    },
+    {
+      "id": "17",
+      "accountId": "acc-004",
+      "date": "2025-07-26",
+      "amount": 600,
+      "senderReceiver": "Training Services",
+      "message": "Workshop fees"
+    },
+    {
+      "id": "18",
+      "accountId": "acc-001",
+      "date": "2025-07-27",
+      "amount": -120,
+      "senderReceiver": "Legal Advisors",
+      "message": "Consultation charge"
+    },
+    {
+      "id": "19",
+      "accountId": "acc-003",
+      "date": "2025-07-28",
+      "amount": 500,
+      "senderReceiver": "IT Support",
+      "message": "System upgrade"
+    },
+    {
+      "id": "20",
+      "accountId": "acc-002",
+      "date": "2025-07-29",
+      "amount": -60,
+      "senderReceiver": "Stationery Supplier",
+      "message": "Office supplies"
+    }
+  ]
+}
